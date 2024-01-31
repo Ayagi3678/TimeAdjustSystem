@@ -1,0 +1,11 @@
+﻿{
+  "name": "com.yagi.time-adjust-system",
+  "displayName": "TimeAdjustSystem",
+  "author": { "name": "Ayagi3678"},
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Manage TimeScale.",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
