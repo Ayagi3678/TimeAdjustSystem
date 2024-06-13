@@ -25,7 +25,6 @@ namespace TimeAdjustSystem.Internal
 
         void Update()
         {
-            updateRunner.Run();
             if (updateRunner.Items.Length == 0)
             {
                 Time.timeScale = 1;
@@ -46,6 +45,7 @@ namespace TimeAdjustSystem.Internal
                 return;
             }
             Time.timeScale = current.TimeScale;
+            updateRunner.Run();
         }
     }
 }

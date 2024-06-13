@@ -10,5 +10,10 @@ namespace TimeAdjustSystem
         {
             UpdateDispatcher.Register(timeRequest);
         }
+
+        public static void OneFrameSubscribe(int priority, float timeScale)
+        {
+            Subscribe(priority, timeScale, UniTask.DelayFrame(1));
+        }
     }
 }
