@@ -23,7 +23,7 @@ namespace TimeAdjustSystem.Internal
             instance.updateRunner.Add(item);
         }
 
-        void Update()
+        void LateUpdate()
         {
             if (updateRunner.Items.Length == 0)
             {

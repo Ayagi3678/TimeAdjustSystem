@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79cd4dd1-2424-47d1-93b3-75262a411d29" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/TimeAdjustSystem/Internal/UpdateDispatcher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TimeAdjustSystem/Internal/UpdateDispatcher.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TimeAdjustSystem/TimeAdjuster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TimeAdjustSystem/TimeAdjuster.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TimeAdjustSystem/TimeRequest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TimeAdjustSystem/TimeRequest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TimeAdjustSystem/TimeRequest.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TimeAdjustSystem/TimeRequest.cs.meta" afterDir="false" />
-    </list>
+    <list default="true" id="79cd4dd1-2424-47d1-93b3-75262a411d29" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/TimeAdjustSystem/TimeRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TimeAdjustSystem/TimeRequest.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -95,6 +90,7 @@
       <updated>1718268084776</updated>
       <workItem from="1718268085884" duration="514000" />
       <workItem from="1718268637589" duration="1319000" />
+      <workItem from="1718270028831" duration="713000" />
     </task>
     <servers />
   </component>
