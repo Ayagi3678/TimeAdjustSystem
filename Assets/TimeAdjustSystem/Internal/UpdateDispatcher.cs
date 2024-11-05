@@ -27,7 +27,7 @@ namespace TimeAdjustSystem.Internal
         {
             if (updateRunner.Items.Length == 0)
             {
-                Time.timeScale = 1;
+                Time.timeScale = TimeAdjuster.DefaultTimeScale;
                 return;
             }
             var current = updateRunner.Items[0];

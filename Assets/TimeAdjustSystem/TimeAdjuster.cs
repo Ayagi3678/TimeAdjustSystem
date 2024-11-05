@@ -5,6 +5,7 @@ namespace TimeAdjustSystem
 {
     public static class TimeAdjuster
     {
+        public static void DefaultTimeScale = 1;
         public static void Subscribe(int priority, float timeScale, UniTask task)=>Subscribe(new TimeRequest(priority, timeScale, task));
         public static void Subscribe(TimeRequest timeRequest)
         {
